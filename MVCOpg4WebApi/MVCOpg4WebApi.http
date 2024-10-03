@@ -1,0 +1,6 @@
+@MVCOpg4WebApi_HostAddress = http://localhost:5149
+
+GET {{MVCOpg4WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
